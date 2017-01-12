@@ -12,4 +12,4 @@ I will be writing a lot of blog post from now on since I finally found a suitabl
 
 Stay tune!
 
-{% include advertising.html %}
+{% include advertisements.html %}
