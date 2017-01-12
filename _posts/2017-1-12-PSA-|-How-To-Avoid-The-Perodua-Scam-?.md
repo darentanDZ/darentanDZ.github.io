@@ -4,7 +4,6 @@ title:  PSA | How To Avoid The Perodua Scam?
 published: true
 ---
 
-# PSA | How To Avoid The Perodua Scam?
 ![Perodua Spam](/images/p1.jpg)
 Woke up today morning with my news feed filled with this post and my last check prior to writing this post shows that there has been more than 20 shares by friends on my FB. I know Myvi is a really nice car and all...but come on, this post reeks of FAKE all over it. Here are the telltale signs:
 
