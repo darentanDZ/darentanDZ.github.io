@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  My First Personal Website is Official Launched
+published: true
 ---
 
 
