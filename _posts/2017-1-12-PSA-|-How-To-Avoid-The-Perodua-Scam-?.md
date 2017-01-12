@@ -8,15 +8,15 @@ published: true
 Woke up today morning with my news feed filled with this post and my last check prior to writing this post shows that there has been more than 20 shares by friends on my FB. I know Myvi is a really nice car and all...but come on, this post reeks of FAKE all over it. Here are the telltale signs:
 
 ### Signs:
-**1) The page was just created a week ago. 
+**1) The page was just created a week ago**
 
 Perodua is 24 year old company. The company was founded in 1993(Source: Wiki). Wouldn't have they created an FB page years ago? 
 
-**2) Quality of the photos
+**2) Quality of the photos**
 
 Being such an established company, don't you think they could have the budget to hire a professional photographer to take picture for their FB Page instead of this photo that looks like it was taken by a 2 year old baby with a LEGO camera.
 
-**3) Company information and name
+**3) Company information and name**
 
 The FB about page is empty. There is no description. The name itself is fishy.
 
@@ -34,7 +34,7 @@ Well, the motive behind doing pages like this is to gain likes and followers and
 
 
 
-##The Fake Perodua Facebook Page(UPDATE: DELETED)
+##The Fake Perodua Facebook Page(UPDATE: It has been deleted)
 ![Perodua Spam](/images/p2.PNG)
 
 
