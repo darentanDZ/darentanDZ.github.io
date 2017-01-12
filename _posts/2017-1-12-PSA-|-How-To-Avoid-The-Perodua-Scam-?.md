@@ -5,7 +5,7 @@ published: true
 ---
 
 ![Perodua Spam](/images/p1.jpg)
-Woke up today morning with my news feed filled with this post and my last check prior to writing this post shows that there has been more than 20 shares by friends on my FB. I know Myvi is a really nice car and all...but come on, this post reeks of FAKE all over it. Here are the telltale signs:
+Woke up today morning with my news feed filled with this post and my last check prior to writing this post shows that there has been more than 20+ shares by friends on my FB. I know Myvi is a really nice car and all...but come on, this post reeks of FAKE all over it. Here are the telltale signs:
 
 ### Signs:
 **1) The page was just created a week ago**
@@ -26,7 +26,8 @@ Non actually unlike the Free Adidas Shoe Scam post I wrote about few months ago(
 ### Then what's the purpose of doing this then?
 Well, the motive behind doing pages like this is to gain likes and followers and sell it to the highest buyer. Once it accumulates enough followers/likes(Eg. few hundred thousands), Facebook Pages like these can fetch quite a handsome price from the right buyers. They will change the name of the page and advertise their products.
 
-**Action Items**
+
+***Action Items***
 
 1. Share this article to spread the awareness
 2. Unlike the page
