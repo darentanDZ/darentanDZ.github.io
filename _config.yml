@@ -8,7 +8,7 @@ absolute permalinks: true
 title:               Daren Tan
 tagline:             'Web Developer | Mobile Developer | UX Designer | Data Scientist'
 description:         '...'
-url:                 http://darentanblog.github.io/
+url:                 
 baseurl:             ''
 paginate:            5
 highlighter: rouge
