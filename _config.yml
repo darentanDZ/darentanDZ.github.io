@@ -11,6 +11,7 @@ description:         '...'
 url:                 http://www.darentan.com/blog
 baseurl:             ''
 paginate:            5
+highlighter: rouge
 
 # About/contact
 author:
