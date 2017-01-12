@@ -11,3 +11,5 @@ I have finally completed my first personal portfolio website and blog and I am o
 I will be writing a lot of blog post from now on since I finally found a suitable medium to blog in(Psst, Jekyll) I will be writing about technology, gadgets, reviews, guides, and any other interesting things I come across online that's worth sharing.
 
 Stay tune!
+
+{% include advertising.html %}
