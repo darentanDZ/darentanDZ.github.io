@@ -37,21 +37,28 @@ Step 1: Click on the triangle beside the “?” button on the top-right of your
 ![b2p2](/images/b2p2.jpg)
 
 Step 1: Click on the “Following” tab in the list on the left side of the screen.
+
 Step 2: Click on the “Privacy” button beside the “?”
+
 Step 3: Select “Only Me”
 
 ## Part 2: Disable the “Now friends with”
 ![b2p3](/images/b2p3.jpg)
 
 Step 1: Click on the “Friends” tab in the list on the left side of the screen
+
 Step 2: Click on the “Friends activity can show up in” button beside the “Search” button
+
 Step 3: Uncheck all 
 
 ## Part 3: Disable the “Like Page A”
 ![b2p4](/images/b2p4.jpg)
 Step 1: Click on the “Likes” tab in the list on the left-side of your screen
+
 Step 2: Click on the “Pages and Interests” that appears under it
+
 Step 3: Click on the “Pencil” button
+
 Step 4: Click “Hidden from timeline” for each of the Page likes you want to hide
 
 Note: Unfortunately, due to recent changes to Facebook, there is no way to disable all at once anymore. Posts and comments also cannot be disabled.
