@@ -4,7 +4,13 @@ title: TechTips | How To Hide Your Likes, Following and Now friends with?
 published: true
 ---
 
-Have you found yourselves in these situations before? 
+<style type="text/css">
+  .img-width{
+    width: 250px;
+  }
+</style>
+
+Have you found yourselves in these awkward situations before? 
 
 <center>Situation A:</center>
 ![d1](/images/D1.jpg)
@@ -16,6 +22,7 @@ Or even this,
 
 <center>Situation C:</center>
 ![d3](/images/D3.jpg)
+
 
 When you LIKE a page, FOLLOW a person or ADD FRIENDS, it will show up in your friend’s news feed and I have seen it lead to many awkward and embarrassing situations on Facebook. Well, I have found and tested the solutions for this problem a few months ago and I decided to share it with you guys. I have broken it down to 3 parts and here it goes:
 
@@ -47,7 +54,7 @@ Step 2: Click on the “Pages and Interests” that appears under it
 Step 3: Click on the “Pencil” button
 Step 4: Click “Hidden from timeline” for each of the Page likes you want to hide
 
-Note: Unfortuantely, due to recent changes to Facebook, there is no way to disable all at once anymore. Posts and comments also cannot be disabled.
+Note: Unfortunately, due to recent changes to Facebook, there is no way to disable all at once anymore. Posts and comments also cannot be disabled.
 
 #Conclusion
 Congratulations! You have just learnt to disable Likes, Follows and Friends with from appearing in your friend’s news feed. You do not have to worry about being spammed with UP UP UP anymore!
