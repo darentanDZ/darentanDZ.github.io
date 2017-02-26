@@ -9,6 +9,7 @@ title:               Daren Tan
 tagline:             'Web Developer | Mobile Developer | UX Designer | Data Scientist'
 description:         '...'
 { %url:                 'http://blog.darentan.tk' %}
+url:                ''
 baseurl:             ""
 paginate:            5
 highlighter: rouge
