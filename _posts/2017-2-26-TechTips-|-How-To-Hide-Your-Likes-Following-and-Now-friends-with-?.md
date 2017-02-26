@@ -4,12 +4,6 @@ title: TechTips | How To Hide Your Likes, Following and Now friends with?
 published: true
 ---
 
-<style type="text/css">
-  .img-width{
-    width: 250px;
-  }
-</style>
-
 Have you found yourselves in these awkward situations before? 
 
 <center>Situation A:</center>
