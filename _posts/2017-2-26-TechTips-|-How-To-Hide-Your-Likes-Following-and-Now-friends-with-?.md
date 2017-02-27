@@ -6,18 +6,19 @@ published: true
 
 Have you found yourselves in these awkward situations before? 
 
-<center>Situation A:</center>
+<center>**Situation A:**</center>
 ![d1](/images/D1.jpg)
 
-<center>Situation B:</center>
+<center>**Situation B:**</center>
 ![d2](/images/D2.jpg)
 
 Or even this,
 
-<center>Situation C:</center>
+<center>**Situation C:**</center>
 ![d3](/images/D3.jpg)
 
 
+# Introduction
 When you LIKE a page, FOLLOW a person or ADD FRIENDS, it will show up in your friend’s news feed and I have seen it lead to many awkward and embarrassing situations on Facebook. Well, I have found and tested the solutions for this problem a few months ago and I decided to share it with you guys. I have broken it down to 3 parts and here it goes:
 
 # The Solution!
