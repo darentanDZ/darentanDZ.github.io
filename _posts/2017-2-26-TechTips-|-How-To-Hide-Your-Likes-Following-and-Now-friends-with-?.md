@@ -23,7 +23,7 @@ When you LIKE a page, FOLLOW a person or ADD FRIENDS, it will show up in your fr
 # The Solution!
 
 ## Pre-requisite: Go to your Facebook’s Activity Log
-![b2p1](/images/b2p1.jpg)
+<img src="/images/b2p1.jpg" alt="b2p1" height="600"/>
 
 Step 1: Click on the triangle beside the “?” button on the top-right of your screen
 
