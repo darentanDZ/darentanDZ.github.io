@@ -20,7 +20,7 @@ Or even this,
 
 When you LIKE a page, FOLLOW a person or ADD FRIENDS, it will show up in your friend’s news feed and I have seen it lead to many awkward and embarrassing situations on Facebook. Well, I have found and tested the solutions for this problem a few months ago and I decided to share it with you guys. I have broken it down to 3 parts and here it goes:
 
-#The Solution!
+# The Solution!
 
 ## Pre-requisite: Go to your Facebook’s Activity Log
 ![b2p1](/images/b2p1.jpg)
@@ -57,7 +57,7 @@ Step 4: Click “Hidden from timeline” for each of the Page likes you want to 
 
 Note: Unfortunately, due to recent changes to Facebook, there is no way to disable all at once anymore. Posts and comments also cannot be disabled.
 
-#Conclusion
+# Conclusion
 Congratulations! You have just learnt to disable Likes, Follows and Friends with from appearing in your friend’s news feed. You do not have to worry about being spammed with UP UP UP anymore!
 
 Remember leave a comment below if this article helped you and share this with your friends! :D
