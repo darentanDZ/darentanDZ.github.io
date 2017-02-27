@@ -61,5 +61,5 @@ Note: Unfortunately, due to recent changes to Facebook, there is no way to disab
 # Conclusion
 Congratulations! You have just learnt to disable Likes, Follows and Friends with from appearing in your friend’s news feed. You do not have to worry about being spammed with UP UP UP anymore!
 
-Remember leave a comment below if this article helped you and share this with your friends! :D
+Remember to leave a comment below if this article helped you and share this with your friends! :D
 
