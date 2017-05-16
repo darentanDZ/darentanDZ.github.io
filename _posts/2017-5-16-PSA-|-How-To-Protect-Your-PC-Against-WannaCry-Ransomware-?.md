@@ -17,17 +17,25 @@ There's already 100,000+ victims so far in more than 99+ countries(13th May 2017
 # The Easy 2-Step Solution
 ## Step 1: Update your Windows! 
 1) Click on your Windows Start button on the bottom left of your screen
+
 2) Type "Check for update" and and press Enter
+
 3) Click "Check for update" button
+
 4) Wait until you see, "You are using the latest version of Windows" if not, click update your Windows.
+
 
 ## Step 2: Disable Server Message Block(SMB) via Windows Features!
 1) Click on your Windows Start button on the bottom left of your screen
+
 2) Type "Turn Windows Feature on or off" and and press Enter
+
 3) Scroll down until you see "SMB 1.0/CIFS File Sharing" which is enabled by default
+
 ![p3](/images/p22.png)
 
 4) Uncheck the box beside "SMB 1.0/CIFS File Sharing" and click Okay button
+
 5) Restart your computer
 
 # Conclusion
