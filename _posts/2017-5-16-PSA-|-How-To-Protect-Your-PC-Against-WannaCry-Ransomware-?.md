@@ -8,6 +8,11 @@ published: true
  p {
   text-align: justify;
 }
+
+img {
+    display: block;
+    margin: auto;
+}
 </style>
 
 # Introduction
