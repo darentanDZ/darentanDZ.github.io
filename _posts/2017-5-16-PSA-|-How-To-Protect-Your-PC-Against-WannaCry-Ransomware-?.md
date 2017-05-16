@@ -6,9 +6,9 @@ published: true
 
 # Introduction
 So I'm pretty sure many of you have heard about the widespread of the WannaCry Ransomware that is spreading like wildfire and causing a panic around the world.
-For the uninitiated, WannaCry is a ransomware, a type of malware that can self-propogates(spreads through computers in the same network), encrypts every single file in your computer and has a countdown timer to the time when it will delete all those files forever unless you pay $300 (£230) in Bitcoin. Which is a pretty hefty sum.
+For the uninitiated, WannaCry is a ransomware, a type of malware that can self-propogates(spreads through computers in the same network), encrypts every single file in your computer and has a countdown timer to the time when it will delete all those files forever unless you pay $300 (£230) in Bitcoin which is a pretty hefty sum.
 Microsoft released a patch for the vulnerability in March, but many systems may not have been updated.
-There's already 100,000+ victims so far in more than 99+ countries(13th May 2017)
+There's already 100,000+ victims so far in more than 99+ countries(13th May 2017).
 {: .text-justify}
 
 ![p1](/images/p11.PNG)
