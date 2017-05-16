@@ -10,7 +10,7 @@ For the uninitiated, WannaCry is a ransomware, a type of malware that can self-p
 Microsoft released a patch for the vulnerability in March, but many systems may not have been updated.
 There's already 100,000+ victims so far in more than 99+ countries(13th May 2017)
 
-![p1](/images/p11.png)
+![p1](/images/p11.PNG)
 <center>Report of WannaCry Ransomware epidemic</center>
 
 
@@ -25,7 +25,7 @@ There's already 100,000+ victims so far in more than 99+ countries(13th May 2017
 1) Click on your Windows Start button on the bottom left of your screen
 2) Type "Turn Windows Feature on or off" and and press Enter
 3) Scroll down until you see "SMB 1.0/CIFS File Sharing" which is enabled by default
-![p3](/images/p11.png)
+![p3](/images/p22.png)
 4) Uncheck the box beside "SMB 1.0/CIFS File Sharing" and click Okay button
 5) Restart your computer
 
