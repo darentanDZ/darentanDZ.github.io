@@ -26,6 +26,7 @@ There's already 100,000+ victims so far in more than 99+ countries(13th May 2017
 2) Type "Turn Windows Feature on or off" and and press Enter
 3) Scroll down until you see "SMB 1.0/CIFS File Sharing" which is enabled by default
 ![p3](/images/p22.png)
+
 4) Uncheck the box beside "SMB 1.0/CIFS File Sharing" and click Okay button
 5) Restart your computer
 
