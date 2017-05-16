@@ -52,5 +52,10 @@ There's already 100,000+ victims so far in more than 99+ countries(13th May 2017
 # Conclusion
 Congratulations! You have just learnt how to protect your computer against the WannaCry Ransomware!
 
+# Additional Tips
+1) Do not simply click on links, open emails or download files from untrustworthy sources. Check the email of sender first. I received several emails from "Paypal" today. They look very real but their sender addresses are not Paypal's.
+
+2) Make a backup of your hard disk. In the worst case scenario that you do get infected, you just need to reformat your pc and restore your file backup from harddisk.
+
 Remember to leave a comment below if this article helped you and share this with your friends! :D
 
