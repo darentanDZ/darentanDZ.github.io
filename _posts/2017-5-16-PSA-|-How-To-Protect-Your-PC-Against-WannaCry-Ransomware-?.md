@@ -10,7 +10,7 @@ For the uninitiated, WannaCry is a ransomware, a type of malware that can self-p
 Microsoft released a patch for the vulnerability in March, but many systems may not have been updated.
 There's already 100,000+ victims so far in more than 99+ countries(13th May 2017)
 
-<center>![p1](/images/p11.PNG)</center>
+![p1](/images/p11.PNG)
 <center>Report of WannaCry Ransomware epidemic</center>
 
 
