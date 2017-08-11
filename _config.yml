@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+absolute permalinks: true
+
+# Setup
+title:               codenchips
+tagline:             'Tech Tips and Reviews'
+description:         '...'
+#url:                 http://blog.darentan.tk
+#baseurl:             'http://blog.darentan.tk'
+paginate:            5
+highlighter: rouge
+future: true
+
+# About/contact
+author:
+  name:              Daren Tan
+  url:               http://www.darentan.tk
+  email:             hello@darentan.tk
+
+# Custom vars
+version:             1.0.0
+
+gems:
+  - jekyll-seo-tag
