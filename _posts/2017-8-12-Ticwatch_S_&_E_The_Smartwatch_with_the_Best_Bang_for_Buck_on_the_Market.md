@@ -19,45 +19,54 @@ iframe {
     margin: auto;
 }
 </style>
+<a href="http://kck.st/2veDGbl">Kickstarter campaign</a>
 
 # Introduction
-All these years, I skipped Xiaomi Band, Fitbit, Motorola Moto360, Samsung Galaxy Gear and many other wearables. Until I saw this targeted ad on Facebook about a week ago showing this hugely successful Kickstarter campaign being 1900% funded at the time. After studying the products and the company behind it, I backed it…in less than 10 minutes and here’s why. 
+All these years, I skipped Xiaomi MiBands, Fitbits, Motorola Moto360, Samsung Galaxy Gear and many other wearables. Until I saw this post on Facebook about a week ago showing this hugely successful <a href="http://kck.st/2veDGbl">Kickstarter campaign</a> being 1900% funded at the time. After studying the products and the company behind it, I backed it…in less than 10 minutes and here’s why. 
 
 <iframe height="460" width="680" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
-<center>Report of WannaCry Ransomware epidemic</center>
+<center>Ticwatch S & E Kickstarter Introduction Video(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center>
 
+# The Company
+Mobvoi, is an ArtificiaI Intelligence(AI) company founded by two ex-Google Engineers, CEO Zhifei Li and CTO Mike Lei[1] that initially specializes in voice recognition, natural language processing, vertical search technology and up to last year, wearables[2]. They also received an undisclosed sum of funding(rumoured to be around USD60-65 million) from the Big Brother G himself(read Google Inc.) in a Series C round of fundraising[3]. 
 
-# The Easy 2-Step Solution
-## Step 1: Update your Windows! 
-1) Click on your Windows Start button on the bottom left of your screen
+![p3-1](/images/p3-1.png)
+<center>What the VP of Android Engineering has to say on the collaboration between Mobvoi and Google(Source:<a href="https://www.facebook.com/theTicwatch/photos/a.1703193626577310.1073741828.1691150421114964/1995048850725118/?type=3&theater">Ticwatch Facebook</a>)</center>
 
-2) Type "Check for update" and and press Enter
+# The Products
+Both the Ticwatch S & E have the same exact same hardware specifications but they differ in the following way:
 
-3) Click "Check for update" button
+![p3-6](/images/p3-6.png)
+<center>Main differences between Ticwatch S & E(Source:<a href="https://www.facebook.com/theTicwatch/photos/a.1703193626577310.1073741828.1691150421114964/1995048850725118/?type=3&theater">Ticwatch Facebook</a>)</center>
 
-4) Wait until you see, "You are using the latest version of Windows" if not, click update your Windows.
+I decided to go with the Black Ticwatch E as I personally preferred its clean and minimal looks. Currently on the Kickstarter campaign’s Early Bird offer, they are going for 25% off the retail price at USD119 for the Ticwatch E and 30% off the retail price at USD139 for the Ticwatch S.
 
+![p3-1](/images/p3-2a.png)
 
-## Step 2: Disable Server Message Block(SMB) via Windows Features!
-1) Click on your Windows Start button on the bottom left of your screen
+![p3-1](/images/p3-2b.png)
+<center>Official Photos of the Ticwatch E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center>
 
-2) Type "Turn Windows Feature on or off" and and press Enter
+![p3-1](/images/p3-3a.png)
 
-3) Scroll down until you see "SMB 1.0/CIFS File Sharing" which is enabled by default
+![p3-1](/images/p3-3b.png)
+<center>Official Photos of the Ticwatch S(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center>
 
-![p3](/images/p22.png)
+![p3-1](/images/p3-4.png)
+<center>Official Hardware Specifications of the Ticwatch S & E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center>
 
-4) Uncheck the box beside "SMB 1.0/CIFS File Sharing" and click Okay button
-
-5) Restart your computer
-
-# Additional Tips
-1) Do not simply click on links, open emails or download files from untrustworthy sources. Check the email of sender first. I received several emails from "Paypal" today. They look very real but their sender addresses are not Paypal's.
-
-2) Make a backup of your PC to an external hard disk. In the worst case scenario that you do get infected, you just need to reformat your pc and restore your file backup from the external hard disk.
+# Comparison with Other Smartwatches in the Market
+The key selling point of this watch is that attracted me is that it has all the features of the RM1500+/- smartwatches at the price of RM519. Don’t believe me? Take a look at the chart below.
+![p3-1](/images/p3-5.png)
+<center>Comparison Table of Ticwatch S & E with other Smartwatches in the market(Source: codenchips.my)</center>
 
 # Conclusion
-Congratulations! You have just learnt how to protect your computer against the WannaCry Ransomware!
+In short, I think that the Ticwatch E and S is the best and most affordable Smartwatch on the market right now. Delivering the best bang for buck and comes with full range of features. As of time of writing this article, there are only 22 left out of 4900 for the Ticwatch E Early Bird offer and 49 left out of 3900 for the Ticwatch S Early Bird offer with only 5 days left in the Kickstarter Campaign. So act quick!
 
-Remember to leave a comment below if this article helped you and share this with your friends! :D
+
+# References
+[1] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/
+[2] https://en.wikipedia.org/wiki/Mobvoi
+[3] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/
+[4] http://www.scmp.com/tech/enterprises/article/1905764/google-funded-mobvoi-launching-smartwatch-app-store-china
+
 
