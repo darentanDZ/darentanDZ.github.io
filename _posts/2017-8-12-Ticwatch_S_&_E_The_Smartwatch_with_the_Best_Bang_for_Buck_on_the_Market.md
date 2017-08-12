@@ -64,9 +64,9 @@ In short, I think that the Ticwatch E and S is the best and most affordable Smar
 
 
 # References
-[1] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/
-[2] https://en.wikipedia.org/wiki/Mobvoi
-[3] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/
+[1] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ </br>
+[2] https://en.wikipedia.org/wiki/Mobvoi </br>
+[3] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ </br>
 [4] http://www.scmp.com/tech/enterprises/article/1905764/google-funded-mobvoi-launching-smartwatch-app-store-china
 
 
