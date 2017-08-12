@@ -39,20 +39,20 @@ Both the Ticwatch S & E have the same exact same hardware specifications but the
 ![p3-6](/images/p3-6.png)
 <center>Main differences between Ticwatch S & E (Source: <a href="https://codenchips.my">Codenchips MY</a>)</center>
 
-</br>I decided to go with the Black Ticwatch E as I personally preferred its clean and minimal looks. Currently on the Kickstarter campaign’s Early Bird offer, they are going for 25% off the retail price at USD119 for the Ticwatch E and 30% off the retail price at USD139 for the Ticwatch S. The products are scheduled to be delivered worldwide between end of October to November, 2 months after the campaign end date which I think is pretty fast.
+<br />I decided to go with the Black Ticwatch E as I personally preferred its clean and minimal looks. Currently on the Kickstarter campaign’s Early Bird offer, they are going for 25% off the retail price at USD119 for the Ticwatch E and 30% off the retail price at USD139 for the Ticwatch S. The products are scheduled to be delivered worldwide between end of October to November, 2 months after the campaign end date which I think is pretty fast.
 
 ![p3-1](/images/p3-2a.png)
 
 ![p3-1](/images/p3-2b.png)
-<center>Official Photos of the Ticwatch E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center></br>
+<center>Official Photos of the Ticwatch E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center><br />
 
 ![p3-1](/images/p3-3a.png)
 
 ![p3-1](/images/p3-3b.png)
-<center>Official Photos of the Ticwatch S(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center></br>
+<center>Official Photos of the Ticwatch S(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center><br />
 
 ![p3-1](/images/p3-4.png)
-<center>Official Hardware Specifications of the Ticwatch S & E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center></br>
+<center>Official Hardware Specifications of the Ticwatch S & E(Source:<a href="http://kck.st/2veDGbl">Kickstarter </a>)</center><br />
 
 # Comparison with Other Smartwatches in the Market
 The key selling point of this watch is that attracted me is that it has all the features of the RM1500+/- smartwatches at the price of RM519. Don’t believe me? Take a look at the chart below.
@@ -64,9 +64,9 @@ In short, I think that the Ticwatch E and S is the best and most affordable Smar
 
 
 # References
-[1] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ </br>
-[2] https://en.wikipedia.org/wiki/Mobvoi </br>
-[3] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ </br>
+[1] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ <br />
+[2] https://en.wikipedia.org/wiki/Mobvoi <br />
+[3] https://techcrunch.com/2015/10/20/google-invests-in-mobvoi-its-android-wear-partner-in-china/ <br />
 [4] http://www.scmp.com/tech/enterprises/article/1905764/google-funded-mobvoi-launching-smartwatch-app-store-china
 
 
