@@ -7,7 +7,7 @@ absolute permalinks: true
 # Setup
 title:               codenchips
 tagline:             'Tech Tips, Guides and Reviews'
-description:         '...'
+description:         'Tech Tips, Guides and Reviews'
 #url:                 http://blog.darentan.tk
 baseurl:             'http://codenchips.my'
 paginate:            5
