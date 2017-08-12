@@ -23,7 +23,7 @@ iframe {
 # Introduction
 All these years, I skipped Xiaomi Band, Fitbit, Motorola Moto360, Samsung Galaxy Gear and many other wearables. Until I saw this targeted ad on Facebook about a week ago showing this hugely successful Kickstarter campaign being 1900% funded at the time. After studying the products and the company behind it, I backed it…in less than 10 minutes and here’s why. 
 
-<iframe height="540" width="720" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
+<iframe height="500" width="700" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
 <center>Report of WannaCry Ransomware epidemic</center>
 
 
