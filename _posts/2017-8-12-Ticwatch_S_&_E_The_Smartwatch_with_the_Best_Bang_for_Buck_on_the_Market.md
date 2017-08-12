@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PSA | How To Protect Your PC Against WannaCry Ransomware?(Easy Way)
+title: Ticwatch S & E | The Smartwatch with the Best Bang for Buck on the Market!
 published: true
 ---
 
@@ -16,12 +16,9 @@ img {
 </style>
 
 # Introduction
-So I'm pretty sure many of you have heard about the widespread of the WannaCry Ransomware that is spreading like wildfire and causing a panic around the world.
-For the uninitiated, WannaCry is a ransomware, a type of malware that can self-propogates(spreads through computers in the same network), encrypts every single file in your computer and has a countdown timer to the time when it will delete all those files forever unless you pay $300 (£230) in Bitcoin which is a pretty hefty sum.
-Microsoft released a patch for the vulnerability in March, but many systems may not have been updated.
-There's already 100,000+ victims so far in more than 99+ countries(13th May 2017).
+All these years, I skipped Xiaomi Band, Fitbit, Motorola Moto360, Samsung Galaxy Gear and many other wearables. Until I saw this targeted ad on Facebook about a week ago showing this hugely successful Kickstarter campaign being 1900% funded at the time. After studying the products and the company behind it, I backed it…in less than 10 minutes and here’s why. 
 
-![p1](/images/p11.PNG)
+<iframe width="480" height="360" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
 <center>Report of WannaCry Ransomware epidemic</center>
 
 
