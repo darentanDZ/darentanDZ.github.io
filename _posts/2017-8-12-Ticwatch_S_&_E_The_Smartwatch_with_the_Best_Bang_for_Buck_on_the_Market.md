@@ -17,7 +17,8 @@ img {
 iframe {
     display: block;
     margin: auto;
-    width="480";
+    width="960";
+    height="720";
 }
 </style>
 
