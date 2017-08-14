@@ -28,7 +28,7 @@ All these years, I skipped Xiaomi MiBands, Motorola Moto360, Samsung Galaxy Gear
 <center>Ticwatch S & E Kickstarter Introduction Video (Source: <a href="http://kck.st/2veDGbl">Ticwatch Kickstarter </a>)</center>
 
 # The Company
-**Mobvoi**, is an **ArtificiaI Intelligence(AI) company** founded by **two ex-Google Engineers**, CEO Zhifei Li and CTO Mike Lei<sup>[1]</sup> that initially specializes in voice recognition, natural language processing, vertical search technology and up to last year, wearables<sup>[2]</sup>. They also **received** an undisclosed sum of **funding**<s>(rumoured to be around USD60-65 million)</s> from the Big Brother G himself(read **Google Inc.**) in a Series C round of fundraising<sup>[3]</sup>. 
+**Mobvoi**, is an **ArtificiaI Intelligence(AI) company** founded by **two ex-Google Engineers**, CEO Zhifei Li and CTO Mike Lei<sup>[1]</sup> that initially specializes in voice recognition, natural language processing, vertical search technology and up to last year, wearables<sup>[2]</sup>. They also **received** an undisclosed sum of **funding**<s>(rumoured to be around USD60 to 65 million)</s> from the Big Brother G himself(read **Google Inc.**) in a Series C round of fundraising<sup>[3]</sup>. 
 
 ![p3-1](/images/p3-1.png)
 <center>What the VP of Android Engineering has to say on the collaboration between Mobvoi and Google (Source: <a href="https://www.facebook.com/theTicwatch/photos/a.1703193626577310.1073741828.1691150421114964/1995048850725118/?type=3&theater">Ticwatch Facebook</a>)</center>
