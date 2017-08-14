@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early Thought | Ticwatch S & E | The Smartwatch with the Best Bang for Buck on the Market!
+title: Early Thoughts | Ticwatch S & E | The Smartwatch with the Best Bang for Buck on the Market!
 published: true
 ---
 
