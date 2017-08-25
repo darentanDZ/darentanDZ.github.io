@@ -25,6 +25,8 @@ There's already 100,000+ victims so far in more than 99+ countries(13th May 2017
 <center>Report of WannaCry Ransomware epidemic</center>
 
 
+{% include in-article-ads-1.html %}
+
 # The Easy 2-Step Solution
 ## Step 1: Update your Windows! 
 1) Click on your Windows Start button on the bottom left of your screen
