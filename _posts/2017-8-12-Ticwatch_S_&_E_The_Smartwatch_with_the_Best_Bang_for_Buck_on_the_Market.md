@@ -27,6 +27,8 @@ All these years, I skipped Xiaomi MiBands, Motorola Moto360, Samsung Galaxy Gear
 <iframe height="380" width="580" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
 <center>Ticwatch S & E Kickstarter Introduction Video (Source: <a href="http://kck.st/2veDGbl">Ticwatch Kickstarter </a>)</center>
 
+
+
 {% include in-feed-ads-1.html %}
 
 # The Company
