@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Top 4 Things You Need to Know from Google Event 2017!
+description: Here are the Top 4 most interesting products from the announcements!
 published: true
 ---
 
