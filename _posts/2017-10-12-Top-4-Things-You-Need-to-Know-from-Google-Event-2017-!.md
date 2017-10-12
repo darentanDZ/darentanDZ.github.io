@@ -44,7 +44,7 @@ Source: Made By Google’s YouTube live stream
 
 The Pixel 2 will be available in three colours: Kinda Blue, Just Black, Clearly White whereas the Pixel 2 XL will only have two colours to choose from: Just Black, and Black and White. The Google Pixel 2 will cost $649 for the 64GB model and $749 for the 128GB model whereas the Pixel 2 XL will be priced at $849 and $949 for the 64GB and 128GB models respectively.
 
-</br>
+<br />
 ![Pixel Google Lens](/images/12102017/5.jpg)
 Source: Made By Google’s YouTube live stream
 
@@ -61,7 +61,7 @@ Source: store.google.com
 
 With a 12 MP sensor, 130 degrees wide-angle lens, and 16GB of internal storage, Google Clips will be available in a two-tone white-and-teal colour and will cost $249. The release date has yet to be announced.
 
-</br>
+<br />
 ![Google Buds](/images/12102017/8.png)
 Source: Made By Google’s YouTube live stream
 
@@ -82,7 +82,7 @@ Google Pixel Buds come in a pocket-sized charging case that provides up to 5 hou
 
 Retailing at $159 this November in the U.S., the Google Pixel Buds will come in 3 colours to complement to the Pixel 2 phones: Kinda Blue, Just Black, Clearly White.
 
-</br>
+<br />
 
 ![Google Buds](/images/12102017/11.jpg)
 Source: store.google.com
