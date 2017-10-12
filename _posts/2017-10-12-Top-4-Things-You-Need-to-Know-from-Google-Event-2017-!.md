@@ -1,4 +1,4 @@
----
+a---
 layout: post
 title: Top 4 Things You Need to Know from Google Event 2017!
 published: true
@@ -19,7 +19,7 @@ In case you missed the live stream of the event last week, Google has dropped so
 
 ![Google Pixel and Pixel XL 2017](/images/12102017/1.PNG)
 <br />
-<center>Source: GSMArena.com</center>
+<center>Google Pixel and Pixel XL 2017(Source: GSMArena.com)</center>
 
 ## 1. Google Pixel 2 and Pixel 2 XL
 As the successor of last year’s Pixel and Pixel XL, the new Pixel phones are back with new and improved features with some compromises (Hint: headphone jack) packed in the form of aluminium bodies with the Pixel 2 rocking a 5-inch 1080p OLED display and a 6-inch OLED panel with QHD+ (or 2880 x 1440) resolution on the larger Pixel 2 XL. 
@@ -29,21 +29,21 @@ Apart from the different screen sizes, both devices essentially share the same f
 As for the device specifications, both the Pixel 2 and Pixel 2 XL run Qualcomm’s Snapdragon 835 processors, 4GB of RAM, 64GB or 128GB of internal storage, and pure Android Oreo which features a new Always On Display, a newly-redesigned home screen with a persistent search box at the bottom, and Active Edge – squeezing the sides of the phone launches Google Assistant (Sounds familiar *cough* HTC U11 *cough* right?). Unlike its predecessors, both phones are IP67 dust and water resistance certified. The fingerprint sensor is placed where your index finger would rest naturally and the addition of the front-facing speakers are some of Google’s subtle changes.
 
 ![Pixel 2017 Devices Specifications](/images/12102017/2.png)
-<center>Source: Made By Google’s YouTube live stream</center>
+<center>Google Pixel 2017 Devices Specifications(Source: Made By Google’s YouTube live stream)</center>
 <br />
 ![Pixel 2017 DXO score](/images/12102017/3.png)
-<center>Source: Made By Google’s YouTube live stream</center>
+<center>Google Pixel XL Tops the DXOMARK Score(Source: Made By Google’s YouTube live stream)</center>
 <br />
 The 12.2MP rear-facing camera comes with f/1.8 aperture and OIS. Integrating A.I. and machine learning in the cameras, the DxOMark score of 98 comes as no surprise. The front-facing 8MP camera supports Google’s new Portrait mode, which blurs the background of an image creating DSLR-like images. Other than Portrait Mode, the rear-facing camera also has another interesting feature: Google Lens. It provides contextual information depending on what the user shows on the camera. If you were to point the camera at a book cover, Google Lens can bring up useful information regarding the book. This is just one of many possible scenarios. Speaking of images, Google is also offering unlimited storage on Google Photos for all images captured using both the Pixel 2 smartphones (Update: The unlimited free storage is only available until the end of 2020).
 
 ![Pixel Google Lens](/images/12102017/4.png)
-<center>Source: Made By Google’s YouTube live stream</center>
+<center>Google Pixel XL(Source: Made By Google’s YouTube live stream)</center>
 <br />
 The Pixel 2 will be available in three colours: Kinda Blue, Just Black, Clearly White whereas the Pixel 2 XL will only have two colours to choose from: Just Black, and Black and White. The Google Pixel 2 will cost $649 for the 64GB model and $749 for the 128GB model whereas the Pixel 2 XL will be priced at $849 and $949 for the 64GB and 128GB models respectively.
 
 <br />
-![Pixel Google Lens](/images/12102017/5.jpg)
-<center>Source: Made By Google’s YouTube live stream</center>
+![Pixel All Colors](/images/12102017/5.jpg)
+<center>Google Pixel ad Pixel XL All Colors(Source: Made By Google’s YouTube live stream)</center>
 <br />
 
 <br />
@@ -52,24 +52,24 @@ The Pixel 2 will be available in three colours: Kinda Blue, Just Black, Clearly 
 
 ## 2.	Google Clips
 ![Google Clips](/images/12102017/6.png)
-<center>Source: Made By Google’s YouTube live stream</center>
+<center>Google Clips(Source: Made By Google’s YouTube live stream)</center>
 <br />
 Google announced their very own A.I. powered camera, Google Clips. It is designed not for you to shoot with but to help capture moments for you so you can be in the moment. There is a little LED indicator and also a shutter button if you wish to capture something manually. Google Clips is smart and will get smarter over time thanks to Google’s machine learning. Google Clips can learn to recognise people’s faces in images and snap pictures of people you know of over time.
 
 To access the clips and images captured on the Clips, you’ll need to pair your smartphone installed with the Google Clips app to the Clips. The clips or short 7-second videos can be saved as still images by selecting the frame of your choice. Taking privacy concerns into consideration, nothing leaves the device unless you, the user, choose to save or share it. 
 
 ![Google Clips with Pixel](/images/12102017/7.PNG)
-<center>Source: store.google.com</center>
+<center>Google Clips with Pixel XL(Source: store.google.com)</center>
 <br />
 With a 12 MP sensor, 130 degrees wide-angle lens, and 16GB of internal storage, Google Clips will be available in a two-tone white-and-teal colour and will cost $249. The release date has yet to be announced.
 
 <br />
 ![Google Buds](/images/12102017/8.png)
-<center>Source: Made By Google’s YouTube live stream</center>
+<center>Google Buds(Source: Made By Google’s YouTube live stream)</center>
 <br />
 ## 3. Google Pixel Buds
 ![Google Buds](/images/12102017/9.png)
-<center>Source: store.google.com</center>
+<center>Google Buds Close-up(Source: store.google.com)</center>
 <br />
 The Pixel Buds is the first of its kind by Google. The wireless earbuds are connected by braided cable that goes around your neck or head. The braided cable which loops around each ear bud allows you to adjust them to fit your ear more nicely. Like most earphones out there, they can be used for phone calls and listening to songs. 
 
@@ -78,7 +78,7 @@ The controls are integrated to the right ear bud and they are fairly simple to u
 Unlike most earphones, the Google Pixel Buds come with native support for real-time translation via Google Translate when used with the Pixel or Pixel 2 smartphones, allowing users to chat and hear translations of 40 different languages in real time (as seen in the live demonstration).
 
 ![Google Buds](/images/12102017/10.jpg)
-<center>Source: store.google.com</center>
+<center>Google Buds Top View(Source: store.google.com)</center>
 <br />
 Google Pixel Buds come in a pocket-sized charging case that provides up to 5 hours of listening time with a single charge of its 120 mAh battery. The charging case (which is also a wireless charger) has a battery capacity of 620 mAh and charges with USB Type-C. Google claims the charging case has enough to give you 24 hours of listening time. 
 
@@ -87,12 +87,12 @@ Retailing at $159 this November in the U.S., the Google Pixel Buds will come in 
 <br />
 
 ![Google Buds](/images/12102017/18.png)
-<center>Source: store.google.com</center>
+<center>Google Pixelbook Side View(Source: store.google.com)</center>
 <br />
 ## 4.	Google Pixelbook
 
-![Google Pixelbook](/images/12102017/12.png)
-<center>Source: store.google.com</center>
+![Google Pixelbook](/images/12102017/11.jpg)
+<center>Google Pixelbook Top View(Source: store.google.com)</center>
 <br />
 The Pixelbook is Google’s latest high performance, convertible Chromebook that features a 4-in-1 design: Laptop mode, Keyboard underneath, Tablet mode, Tent mode. At only 10.3 mm thin and weighing only 1.1 kg, it is the thinnest and lightest laptop  ever made by Google. This is the first laptop that has its own built-in Google Assistant with a dedicated Assistant key between the Ctrl key and the Alt key. A single tap will seamlessly launch the Google Assistant. 
 
