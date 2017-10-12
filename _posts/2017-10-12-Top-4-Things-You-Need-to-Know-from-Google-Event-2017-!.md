@@ -17,10 +17,6 @@ img {
 
 In case you missed the live stream of the event last week, Google has dropped some major announcements in San Francisco. Here are my top 4 favourite products from the announcements:
 
-<br />
-{% include in-feed-ads-1.html %}
-<br />
-
 ![Google Pixel and Pixel XL 2017](/images/12102017/1.PNG)
 <br />
 Source: GSMArena.com
@@ -47,6 +43,11 @@ The Pixel 2 will be available in three colours: Kinda Blue, Just Black, Clearly 
 <br />
 ![Pixel Google Lens](/images/12102017/5.jpg)
 Source: Made By Google’s YouTube live stream
+
+
+<br />
+{% include in-feed-ads-1.html %}
+<br />
 
 ## 2.	Google Clips
 ![Google Clips](/images/12102017/6.png)
