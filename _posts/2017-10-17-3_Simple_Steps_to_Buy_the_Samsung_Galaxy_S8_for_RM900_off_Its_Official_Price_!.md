@@ -18,7 +18,7 @@ img {
 ![Samsung Galaxy S8 Out of the Box](/images/17102017/1.jpg)
 
 # Introduction
-A few weeks ago, I got the Samsung Galaxy S8 and am loving it ever since. It is worth every single cent with its main highlight being that beautiful, bezelless, sexy-licious screen and finally a phone that keeps up to speed with me. Many have been asking me why did I upgrade so suddenly. Well, its because I found a way to get it for RM889 less than its Official Retail Price of RM3299 at RM2410. I was pretty sceptical of it at first, thinking it was impossible or it was  a scam but it’s as real as it can get. It’s a Brand New in Box Samsung S8 with 1 Year Original Warranty by Samsung Malaysia Electronics(SME). Right now, you can get it at an even cheaper price. Here’s how you can get you own for RM900 less in 3 simple steps:
+A few weeks ago, I got the Samsung Galaxy S8 and am loving it ever since. It is worth every single cent with its main highlight being that beautiful, bezelless, sexy-licious screen and finally a phone that keeps up to speed with me. Many have been asking me why did I upgrade so suddenly. Well, its because I found a way to get it for RM889 less than its Official Retail Price of RM3299 at RM2410. I was pretty sceptical of it at first, thinking it was impossible or it was  a scam but it’s as real as it can get. It’s a Brand New in Box Samsung S8 with 1 Year Original Warranty by Samsung Malaysia Electronics(SME). Right now, you can get it at an even cheaper price. Here’s how you can get your own for RM900 less in 3 simple steps:
 
 <br />
 {% include in-article-ads-1.html %}
@@ -27,7 +27,7 @@ A few weeks ago, I got the Samsung Galaxy S8 and am loving it ever since. It is 
 # The Easy 3-Steps to get this Promo
 <br />
 ## Step 1: Download the Qoo10 app and sign up!
-
+Download the Qoo10 app from the Google Play Store or the Apple App Store. Register an account on the platform!
 [![Qoo10 Play Store Link](/images/17102017/3.png "Qoo10 Malaysia Play Store Link")](https://play.google.com/store/apps/details?id=net.giosis.shopping.my&hl=en)
 [![Qoo10 App Store Link](/images/17102017/4.png "Qoo10 Malaysia App Store Link")](https://itunes.apple.com/my/app/qoo10-my/id481574284?mt=8)
 
