@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CHEAPS] 3 Simple Steps to Buy the Samsung Galaxy S8 for at least RM900 off Its Official Price!
+title: 3 Simple Steps to Buy the Samsung Galaxy S8 for at least RM900 off Its Official Price!
 published: true
 ---
 
