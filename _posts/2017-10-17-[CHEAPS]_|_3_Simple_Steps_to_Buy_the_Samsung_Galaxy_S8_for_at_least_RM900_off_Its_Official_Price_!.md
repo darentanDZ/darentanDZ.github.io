@@ -30,12 +30,12 @@ A few weeks ago, I got the Samsung Galaxy S8 and am loving it ever since. It is 
 # The Easy 3-Steps to get this Promo
 ## Step 1: Download the Qoo10 app and sign up!
 
-[![Qoo10 Play Store Link](/images/17102017/2.png "Qoo10 Malaysia Play Store Link")](https://play.google.com/store/apps/details?id=net.giosis.shopping.my&hl=en)
-[![Qoo10 App Store Link](/images/17102017/3.png "Qoo10 Malaysia App Store Link")](https://itunes.apple.com/my/app/qoo10-my/id481574284?mt=8)
+[![Qoo10 Play Store Link](/images/17102017/3.png "Qoo10 Malaysia Play Store Link")](https://play.google.com/store/apps/details?id=net.giosis.shopping.my&hl=en)
+[![Qoo10 App Store Link](/images/17102017/4.png "Qoo10 Malaysia App Store Link")](https://itunes.apple.com/my/app/qoo10-my/id481574284?mt=8)
 
 
 <br />
-![Qoo10 Malaysia App Page](/images/17102017/4.png)
+![Qoo10 Malaysia App Page](/images/17102017/2.png)
 
 ## Step 2:  Get the RM390 coupon
 Get Qoo10 Digital/Living Rewards RM390 Coupon via the mobile app. Search for this banner either in the homepage or the product page and click on the RM390 off voucher. Don’t worry if you cannot get it today. The coupon resets everyday at 10am.So try and try again until you get it.
