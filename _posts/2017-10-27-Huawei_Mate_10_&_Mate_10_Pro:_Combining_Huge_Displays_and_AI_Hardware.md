@@ -66,12 +66,12 @@ Huawei’s new PC Mode on both the Mate 10 and Mate 10 Pro introduces a desktop 
 <center>Connect to any display(Source: GSMArena.com)</center>
 
 #Porsche Design Huawei Mate 10
-![Designed by Porsche](/images/27102017/11.jpg)
+![Designed by Porsche](/images/27102017/11.png)
 <center>Designed by Porsche(Source: consumer.huawei.com)</center>
 
 Apart from the Mate 10 and Mate 10 Pro, Huawei also released a limited edition Porsche Design Huawei Mate 10 which is a rather premium (not to mention pricey) option. The design of the limited edition variant is said to be inspired by the Porsche 911 car and it comes in Diamond Black colour scheme. It might be hard to notice the difference in looks of the Porsche Design Mate 10 from the Mate 10 Pro at first glance. A closer inspection and you’ll notice the custom branding below the display and a uniquely designed back case. I’ll leave it to you to spot the rest of the differences ;) 
 
-![Connect to any display](/images/27102017/12.jpg)
+![Connect to any display](/images/27102017/12.png)
 <center>Mate 10 Pro [left] and PD Mate 10 [right] (Source: GSMArena.com)</center>
 
 The Porsche Design Mate 10 shares the same hardware as the Mate 10 Pro. However, the most notable difference is the 256GB of internal storage on the PD Mate 10. Apart from that, the rest of the internals remain the same from the 6.0 inch OLED FullView Display, the 4,000mAh battery, the 8MP front camera, to the Leica-certified dual-camera (12MP RGB & 20MP monochrome sensor).
