@@ -68,7 +68,7 @@ The Mate 10 Pro will be available in 4 colours: Titanium Grey, Midnight Blue, Pi
 {% include in-article-ads-2.html %}
 <br />
 
-#Huawei PC Mode
+# Huawei PC Mode
 
 ![PC Mode](/images/27102017/9.jpg)
 <center>Huawei's Dockless PC Mode
@@ -80,7 +80,7 @@ Huawei’s new PC Mode on both the Mate 10 and Mate 10 Pro introduces a desktop 
 <center>Connect to any display
   (Source: GSMArena.com)</center><br />
 
-#Porsche Design Huawei Mate 10
+# Porsche Design Huawei Mate 10
 ![Designed by Porsche](/images/27102017/11.png)
 <center>Designed by Porsche
   (Source: consumer.huawei.com)</center><br />
