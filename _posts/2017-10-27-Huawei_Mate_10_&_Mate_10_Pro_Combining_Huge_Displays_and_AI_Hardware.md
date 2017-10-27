@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Huawei Mate 10 & Mate 10 Pro: Combining Huge Displays and AI Hardware
+title: Huawei Mate 10 & Mate 10 Pro | Combining Huge Displays and AI Hardware
 published: true
 ---
 
