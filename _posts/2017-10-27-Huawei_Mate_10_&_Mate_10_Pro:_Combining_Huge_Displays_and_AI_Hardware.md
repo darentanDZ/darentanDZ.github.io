@@ -56,6 +56,10 @@ The Mate 10 Pro will be available in 4 colours: Titanium Grey, Midnight Blue, Pi
 ![Mate 10 Pro Color Options Photo](/images/27102017/8.jpg)
 <center>Mate 10 Pro Color Options(Source: GSMArena.com)</center><br />
 
+<br />
+{% include in-article-ads-2.html %}
+<br />
+
 #Huawei PC Mode
 
 ![PC Mode](/images/27102017/9.jpg)
