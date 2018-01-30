@@ -14,7 +14,7 @@ img {
     margin: auto;
 }
 
-iframe {
+video {
     display: block;
     margin: auto;
 }
