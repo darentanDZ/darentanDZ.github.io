@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infographic | How to Choose the Right Duplicate Detection Technique!
+title: Infographic | How to Choose the Right Duplicate Detection Technique?
 published: true
 ---
 
