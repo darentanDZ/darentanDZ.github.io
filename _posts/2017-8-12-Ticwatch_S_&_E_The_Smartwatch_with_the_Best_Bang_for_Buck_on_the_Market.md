@@ -24,7 +24,7 @@ iframe {
 ![p3-1](/images/p3-7.png) <br />
 All these years, I skipped Xiaomi MiBands, Motorola Moto360, Samsung Galaxy Gear and many other wearables. I was planning on getting a Fitbit soon up until I saw this post on Facebook about a week ago showing this hugely successful <a href="http://kck.st/2veDGbl">Kickstarter campaign</a> being 1900% funded at the time. After studying the products and the company behind it, I backed it ... in less than 10 minutes and here’s why.
 
-<iframe height="380" width="580" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4" frameborder="0"> </iframe>
+<iframe height="380" width="580" src="https://ksr-video.imgix.net/projects/2974380/video-797594-h264_high.mp4?rel=0" frameborder="0"> </iframe>
 <center>Ticwatch S & E Kickstarter Introduction Video (Source: <a href="http://kck.st/2veDGbl">Ticwatch Kickstarter </a>)</center>
 
 <br />
