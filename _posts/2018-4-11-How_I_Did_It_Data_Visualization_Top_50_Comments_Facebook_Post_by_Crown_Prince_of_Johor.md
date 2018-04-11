@@ -5,6 +5,17 @@ description: The explanation of how I created the Data Visualization for Data An
 published: true
 ---
 
+<style type="text/css">
+ p {
+  text-align: justify;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+</style>
+
 ![Top 50 Comments on Facebook Post by the Crown Prince of Johor Cover Photo](/images/11042018/cover_photo.png)
 
 ## Foreground/Motivation
@@ -23,14 +34,18 @@ Hence, I set out to create this visualization
 {% include in-article-ads-1.html %} 
 
 ## Methodology
-1. Wrote script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
-2. Manually scraped Top 50 comments(With highest reactions) from the post
+1. Wrote Python script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
+![Facebook Graph API down screenshot](/images/11042018/fb_graph_api_down.jpg)
+2. Manually scraped Top 50 comments(With highest reactions) from the post(aka Select, Copy+Paste).
 3. Preprocess text using custom stopword list, removing punctuations, lower case etc.
-4. Perform word count
+![Stop words list reprocessing function](/images/11042018/preprocess_function.PNG)
+4. Perform word count.
 5. Manually created and labelled the weights a 1183-word sentiment corpus based on the words in the comments
+![Snippet of the Malay sentiment corpus](/images/11042018/malay_sentiment_corpus_snippet.jpg)
 6. Performed sentiment analysis using custom sentiment corpus to find out sentiment of each comment
 7. Produced visualizations using wordcloud, matplotlib and Tableau
 8. Compiled findings and designed infographic using Corel Draw X7
+![Screenshot of finishined infographic in Corel Draw](/images/11042018/coreldraw_screenshot.png)
 
 ## Main Findings
 ![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
