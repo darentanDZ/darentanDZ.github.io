@@ -22,25 +22,25 @@ Hence, I set out to create this visualization
 {% include in-article-ads-1.html %} 
 
 ## Methodology
-- Wrote script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
-- Manually scraped Top 50 comments(With highest reactions) from the post
-- Preprocess text using custom stopword list, removing punctuations, lower case etc.
-- Perform word count
-- Manually created and labelled the weights a 1183-word sentiment corpus based on the words in the comments
-- Performed sentiment analysis using custom sentiment corpus to find out sentiment of each comment
-- Produced visualizations using wordcloud, matplotlib and Tableau
-- Compiled findings and designed infographic using Corel Draw X7
+1. Wrote script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
+2. Manually scraped Top 50 comments(With highest reactions) from the post
+3. Preprocess text using custom stopword list, removing punctuations, lower case etc.
+4. Perform word count
+5. Manually created and labelled the weights a 1183-word sentiment corpus based on the words in the comments
+6. Performed sentiment analysis using custom sentiment corpus to find out sentiment of each comment
+7. Produced visualizations using wordcloud, matplotlib and Tableau
+8. Compiled findings and designed infographic using Corel Draw X7
 
 ## Main Findings
 - 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments
 - The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi"
 
 ## Conclusion
-
-Rakyat disagrees with the prince.
+Based on this analysis, it can be concluded that the rakyat disagrees with the prince. This contradicts my initial belief that the Crown Prince's words will influence the rakyat.
 
 ## Note
-- My knowledge of Malaysian history/sultans/princes is a little rusty. Any friends have anything to add on feel free.
+* My knowledge of Malaysian history/sultans/princes is a little rusty. Any friends have anything to add on feel free.
+* I plan to redo this analysis when the Facebook Graph API is restored. With more data, the results will become even more accurate.
 
 ## The Infographic
 ![Data Visualization of Top 50 Comments on Facebook Post by the Crown Prince of Johor](/images/10042018/infographic4.png)
