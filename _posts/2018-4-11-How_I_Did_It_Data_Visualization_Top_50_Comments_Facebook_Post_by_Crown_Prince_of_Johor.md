@@ -29,29 +29,40 @@ Back to the post , that particular post written by the prince sharing his opinio
 
 This piqued my curiousity as to what the other readers' opinions were on this post? Would the citizens agree or disagree with their beloved prince? Will his words bring a change the current sentiments of the people towards the government?
 
-Hence, I set out to create this visualization
-
-{% include in-article-ads-1.html %} 
+Hence, I set out to scrape the comments, perform data analysis and create this visualization.
 
 ## Methodology
 1. Wrote Python script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
 ![Facebook Graph API down screenshot](/images/11042018/fb_graph_api_down.jpg)
+<br />
+<center>Screenshot of message returned by Facebook Graph API</center>
 2. Manually scraped Top 50 comments(With highest reactions) from the post(aka Select, Copy+Paste).
 3. Preprocess text using custom stopword list, removing punctuations, lower case etc.
-![Stop words list reprocessing function](/images/11042018/preprocess_function.PNG)
+![Stop words list preprocessing function](/images/11042018/preprocess_function.PNG)
+<br />
+<center>Screenshot of the preprocessing with the custom Malay stopwords list</center>
 4. Perform word count.
 5. Manually created and labelled the weights a 1183-word sentiment corpus based on the words in the comments
 ![Snippet of the Malay sentiment corpus](/images/11042018/malay_sentiment_corpus_snippet.jpg)
+<br />
+<center>Snippet of the Malay Words Sentiment Corpus with and without the neutral words</center>
 6. Performed sentiment analysis using custom sentiment corpus to find out sentiment of each comment
 7. Produced visualizations using wordcloud, matplotlib and Tableau
 8. Compiled findings and designed infographic using Corel Draw X7
 ![Screenshot of finishined infographic in Corel Draw](/images/11042018/coreldraw_screenshot.png)
+<br />
+<center>Screenshot of finished infographic in Corel Draw X7</center>
 
 ## Main Findings
-![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
 - 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments
-![Comments Word Cloud Visualization](/images/11042018/sentiment_word_cloud.jpg)
+![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
+<br />
+<center>Comments Sentiment Pie Chart Visualization</center>
 - The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi"
+![Comments Word Cloud Visualization](/images/11042018/sentiment_word_cloud.jpg)
+<br />
+<center>Comments Wordcloud Visualization</center>
+
 
 ## Conclusion
 Based on this analysis, it can be concluded that the rakyat disagrees with the prince. This contradicts my initial belief that the Crown Prince's words will influence the rakyat.
