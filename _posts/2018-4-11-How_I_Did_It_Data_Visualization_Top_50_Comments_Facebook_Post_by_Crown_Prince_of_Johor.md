@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Did It | Data Visualization of Top 50 Comments on Facebook Post by the Crown Prince of Johor
+title: How I Did It | The Data Visualization of Top 50 Comments on Facebook Post by the Crown Prince of Johor
 description: The explanation of how I created the Data Visualization for Data Analysis on comments the Facebook Post by the Crown Prince of Johor
 published: true
 ---
