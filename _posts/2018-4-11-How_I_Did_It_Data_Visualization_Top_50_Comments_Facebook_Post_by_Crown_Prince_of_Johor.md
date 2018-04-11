@@ -31,6 +31,8 @@ This piqued my curiousity as to what the other readers' opinions were on this po
 
 Hence, I set out to scrape the comments, perform data analysis and create this visualization.
 
+{% include in-article-ads-1.html %}
+
 ## Methodology
 1. Wrote Python script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
 <br />
