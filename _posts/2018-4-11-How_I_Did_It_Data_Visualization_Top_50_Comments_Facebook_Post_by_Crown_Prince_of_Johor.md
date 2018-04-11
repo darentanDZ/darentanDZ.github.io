@@ -33,27 +33,33 @@ Hence, I set out to scrape the comments, perform data analysis and create this v
 
 ## Methodology
 1. Wrote Python script to scrape the comments of the original Facebook Status at JOHOR Southern Tigers using Facebook Graph API. Unfortunately, Graph API is down indefinitely while FB is making some changes to their policy(Thanks Cambridge Analytica!)
+<br />
 ![Facebook Graph API down screenshot](/images/11042018/fb_graph_api_down.jpg)
 <center>Screenshot of message returned by Facebook Graph API</center><br />
 2. Manually scraped Top 50 comments(With highest reactions) from the post(aka Select, Copy+Paste).
 3. Preprocess text using custom stopword list, removing punctuations, lower case etc.
+<br />
 ![Stop words list preprocessing function](/images/11042018/preprocess_function.PNG)
 <center>Screenshot of the preprocessing with the custom Malay stopwords list</center><br />
 4. Perform word count.
 5. Manually created and labelled the weights a 1183-word sentiment corpus based on the words in the comments
+<br />
 ![Snippet of the Malay sentiment corpus](/images/11042018/malay_sentiment_corpus_snippet.jpg)
 <center>Snippet of the Malay Words Sentiment Corpus with and without the neutral words</center><br />
 6. Performed sentiment analysis using custom sentiment corpus to find out sentiment of each comment
 7. Produced visualizations using wordcloud, matplotlib and Tableau
 8. Compiled findings and designed infographic using Corel Draw X7
+<br />
 ![Screenshot of finishined infographic in Corel Draw](/images/11042018/coreldraw_screenshot.png)
 <center>Screenshot of finished infographic in Corel Draw X7</center><br />
 
 ## Main Findings
-- 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments
+- 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments.
+<br />
 ![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
 <center>Comments Sentiment Pie Chart Visualization</center><br />
 - The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi"
+<br />
 ![Comments Word Cloud Visualization](/images/11042018/sentiment_word_cloud.jpg)
 <center>Comments Wordcloud Visualization</center><br />
 
@@ -66,4 +72,5 @@ Based on this analysis, it can be concluded that the rakyat disagrees with the p
 * I plan to redo this analysis when the Facebook Graph API is restored. With more data, the results will become even more accurate.
 
 ## The Infographic
+<br />
 ![Data Visualization of Top 50 Comments on Facebook Post by the Crown Prince of Johor](/images/10042018/infographic4.png)
