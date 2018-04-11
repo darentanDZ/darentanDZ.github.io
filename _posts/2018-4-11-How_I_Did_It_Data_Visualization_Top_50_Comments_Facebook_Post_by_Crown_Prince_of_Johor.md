@@ -32,7 +32,9 @@ Hence, I set out to create this visualization
 8. Compiled findings and designed infographic using Corel Draw X7
 
 ## Main Findings
+![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
 - 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments
+![Comments Word Cloud Visualization](/images/11042018/word_cloud_visualization.png)
 - The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi"
 
 ## Conclusion
