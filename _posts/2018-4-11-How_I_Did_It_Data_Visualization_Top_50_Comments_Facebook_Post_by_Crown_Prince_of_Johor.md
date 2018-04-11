@@ -5,6 +5,7 @@ description: The explanation of how I created the Data Visualization for Data An
 published: true
 ---
 
+![Top 50 Comments on Facebook Post by the Crown Prince of Johor Cover Photo](/images/11042018/cover_photo.png)
 
 ## Foreground/Motivation
 Two days ago, I read this post by the Crown Prince of Johor on his official FB Page, JOHOR Southern Tigers where he occasionally posts his thoughts on current issues in Malaysia.
