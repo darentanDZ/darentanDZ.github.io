@@ -71,6 +71,9 @@ Based on this analysis, it can be concluded that the rakyat disagrees with the p
 * My knowledge of Malaysian history/sultans/princes is a little rusty. Any friends have anything to add on feel free.
 * I plan to redo this analysis when the Facebook Graph API is restored. With more data, the results will become even more accurate.
 
+## P/S
+Am also a professional freelance developer. So hit me up if you need someone for web, mobile to big data/machine learning-related projects! :)
+
 ## The Infographic
 <br />
 ![Data Visualization of Top 50 Comments on Facebook Post by the Crown Prince of Johor](/images/10042018/infographic4.png)
