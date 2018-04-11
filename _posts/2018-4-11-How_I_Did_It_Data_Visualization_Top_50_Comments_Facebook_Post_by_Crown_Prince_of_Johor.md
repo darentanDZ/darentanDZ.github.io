@@ -54,18 +54,18 @@ Hence, I set out to scrape the comments, perform data analysis and create this v
 <center>Screenshot of finished infographic in Corel Draw X7</center><br />
 
 ## Main Findings
-- 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments.
+- 52% of the Top 50 comments on the post had negative sentiment with 30% positive and 18% neutral comments which indicates that a majority of the comments reacted negatively to the Crowned Prince's post.
 <br />
 ![Comments Sentiment Pie Chart Visualization](/images/11042018/sentiment_pie_chart.png)
 <center>Comments Sentiment Pie Chart Visualization</center><br />
-- The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi"
+- The Top 5 most mentioned words were politik, hidup, tun, kerajaan, najib with some prominent phrases such as: "nasib_kami", "saya_sokong", "rakyat_marhaen", "pandangan_peribadi" which is inline with this upcoming election which pits former 4th prime minister of Malaysian (Tun) Dr.Mahathir Mohamad against the current one, Dato' Sri Haji Mohammad Najib.
 <br />
 ![Comments Word Cloud Visualization](/images/11042018/sentiment_word_cloud.jpg)
 <center>Comments Wordcloud Visualization</center><br />
 
 
 ## Conclusion
-Based on this analysis, it can be concluded that the rakyat disagrees with the prince. This contradicts my initial belief that the Crown Prince's words will influence the rakyat.
+Based on this analysis, it can be concluded that the rakyat disagrees with the prince. This contradicted with my initial belief that the Crown Prince's words would influence the rakyat.
 
 ## Note
 * My knowledge of Malaysian history/sultans/princes is a little rusty. Any friends have anything to add on feel free.
