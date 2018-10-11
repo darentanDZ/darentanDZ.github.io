@@ -9,7 +9,7 @@ title:               codenchips
 tagline:             'Tech Tips, Guides and Reviews'
 description:         'Tech Tips, Guides and Reviews'
 #url:                 http://blog.darentan.tk
-baseurl:             'https://codenchips.my'
+baseurl:             'https://darentandz.github.io/darentanDZ.github.io/'
 paginate:            5
 highlighter: rouge
 future: true
