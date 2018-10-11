@@ -9,7 +9,7 @@ title:               codenchips
 tagline:             'Tech Tips, Guides and Reviews'
 description:         'Tech Tips, Guides and Reviews'
 #url:                 http://blog.darentan.tk
-baseurl:             'http://codenchips.my'
+baseurl:             'https://codenchips.my'
 paginate:            5
 highlighter: rouge
 future: true
@@ -17,7 +17,7 @@ future: true
 # About/contact
 author:
   name:              Daren Tan
-  url:               http://www.darentan.tk
+  url:               https://www.darentan.tk
   email:             hello@darentan.tk
 
 # Custom vars
